@@ -247,3 +247,4 @@ function App() {
 }
 
 export default App;// TERMINAL TEST SATIRI
+// TERMINAL TEST SATIRI
